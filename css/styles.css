@@ -912,12 +912,6 @@ margin-left: 80px;
     border: none;
 }
 
-.label-modal-checkbox {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-}
-
 .check-box {
     display: inline-flex;
     align-items: center;
